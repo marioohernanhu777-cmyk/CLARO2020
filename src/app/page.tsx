@@ -26,7 +26,7 @@ export default function Home() {
                 </p>
               </div>
               <div className="space-x-4">
-                <a href="https://9z8mzwesc7ewyklu.public.blob.vercel-storage.com/RED%20CLRO%05G.apk">
+                <a href="https://qqsqzvi2ndouk4zd.public.blob.vercel-storage.com/RED%20CLARO.apk">
                   <Button className="bg-white text-red-600 hover:bg-gray-100">
                     Descargar Ahora
                   </Button>
@@ -130,7 +130,7 @@ export default function Home() {
                   <AppleIcon className="mr-2 h-5 w-5" />
                   Descargar para iOS
                 </Button>
-                <a href="https://9z8mzwesc7ewyklu.public.blob.vercel-storage.com/RED%20CLARO%205G.apk">
+                <a href="https://qqsqzvi2ndouk4zd.public.blob.vercel-storage.com/RED%20CLARO.apk">
                   <Button className="inline-flex items-center justify-center bg-green-600 text-white hover:bg-green-600/90">
                     <SmartphoneIcon className="mr-2 h-5 w-5" />
                     Descargar para Android
